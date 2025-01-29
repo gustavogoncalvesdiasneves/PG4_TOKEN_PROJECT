@@ -11,7 +11,7 @@ To receive test tokens, search on Google:
 
 ## 🏆 PG4 Coin
 - **What is PG4 Coin?**  
-  PG4 Coin is inspired by my YouTube channel name! 🎥💡  
+**Check Out My YouTube Channel**: [PlayerG4](https://www.youtube.com/@playerg4849) 🎥   
 - **Smart Contract**: [View on BSC Testnet](https://testnet.bscscan.com/token/0xf54e7bdb0804ba224978b0f2afe29c2ec7dafed3)  
 
 ---
